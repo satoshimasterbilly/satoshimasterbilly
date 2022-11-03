@@ -22,6 +22,23 @@ Excellent, communication and influencing skills, fast learner, past public speak
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt= "Postgresql logo" width= "50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt= "npm logo" width= "50" height="50" />
 <br>
+
+▶ ⏭ You Tube Videos [... more videos](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=9898s)
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+👨‍💻 Latest Blog Articles (https://billy-mcdavid2.medium.com/)
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+
+▶ 🛋 [...more Blog articles] (https://billy-mcdavid2.medium.com/)
+
+
 <!--
 **satoshimasterbilly/satoshimasterbilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
