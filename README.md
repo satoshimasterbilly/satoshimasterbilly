@@ -18,6 +18,9 @@ Excellent, communication and influencing skills, fast learner, past public speak
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt= "CSS logo" width= "50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt= "Twitter logo" width= "50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt= "Solidity logo" width= "50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt= "Vuejs logo" width= "50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt= "Postgresql logo" width= "50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt= "npm logo" width= "50" height="50" />
 <br>
 <!--
 **satoshimasterbilly/satoshimasterbilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
