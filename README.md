@@ -1,5 +1,5 @@
-### Hi there 👋 <iframe src="https://giphy.com/embed/dIjOLFqhMAyAIu8bBb" width="446" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hi-allo-cartoon-waving-dIjOLFqhMAyAIu8bBb">via GIPHY</a></p> I am Billy McDavid!
-
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Billy McDavid!
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/channel/UC3jxwlvvokr1BtxphNOQK-g?label=People%20subscribed%20to%20my%20channel&style=social) ![Twitter URL](https://img.shields.io/twitter/url?label=my%20twitter%20followers&style=social&url=https%3A%2F%2Ftwitter.com%2Fmanimore79%3Ft%3Djo9cd0bhsBI5hS3BkcAIOw%26s%3D09)
 <!--
 **satoshimasterbilly/satoshimasterbilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
