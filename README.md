@@ -4,9 +4,12 @@
 
 A Web Developer specializing in JavaScript technologies with the motivation, goal setting and desire to achieve good Developer status. A record of planning, executing, coding and evaluating smart code on VSC, languages HTML, CSS, JavaScript, React, Bootstrap, Projects Cryptokitties, Github turned in repository clone projects using Coingecko edition V3, & Etherscan, Blockchain clones and utilising Coinmarket cap to create Cryptocurrency data and price charts for webpages. 
 <br>
+<br>
 Microsoft outlook and other applications acquired by working with varied of software applications. Currently deep dive with ZTM courses on Advanced JavaScript Algorithmns.
 <br>
+<br>
 Excellent, communication and influencing skills, fast learner, past public speaking experience, communicating with people from diverse cultures and backgrounds and at all levels. Able to build strong , long term relationships with clients and key stakeholders, demonstrating tact, diplomacy, sound judgement, initiative and discretion.
+<br>
 <br>
 🧰 🛠️
 <br>
