@@ -16,7 +16,7 @@ Excellent, communication and influencing skills, fast learner, past public speak
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt= "React logo" width= "50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt= "Nodejs logo" width= "50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt= "CSS logo" width= "50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt= "JavaScript logo" width= "50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt= "Twitter logo" width= "50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt= "Solidity logo" width= "50" height="50" />
 <br>
 <!--
