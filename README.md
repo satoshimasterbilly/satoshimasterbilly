@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <iframe src="https://giphy.com/embed/dIjOLFqhMAyAIu8bBb" width="446" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hi-allo-cartoon-waving-dIjOLFqhMAyAIu8bBb">via GIPHY</a></p> I am Billy McDavid!
 
 <!--
 **satoshimasterbilly/satoshimasterbilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
