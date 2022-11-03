@@ -42,6 +42,17 @@ Excellent, communication and influencing skills, fast learner, past public speak
 ▶ 🛋 [...more Blog articles] (https://billy-mcdavid2.medium.com/)
 
 
+  <br>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshimasterbilly&layout=compact)](https://github.com/satoshimasterbilly/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshimasterbilly&hide=css,&show_icons=true&theme=radical,)](https://github.com/satoshimasterbilly/github-readme-stats" /></a><br>
+
+
+
+<br>
+
+<a href="https://github-readme-stats.vercel.app/api?username=satoshimasterbilly&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=satoshimasterbilly&show_icons=true&theme=radical" /></a>
+<br>
 <!--
 **satoshimasterbilly/satoshimasterbilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
