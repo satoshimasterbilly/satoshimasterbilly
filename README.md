@@ -14,10 +14,12 @@ Current Projects ongoing:
 A Web Developer specializing in JavaScript technologies with the motivation, goal setting and desire to achieve good Developer status. A record of planning, executing, coding and evaluating smart code on VSC, languages HTML, CSS, JavaScript, React, Bootstrap, Projects Cryptokitties, Github turned in repository clone projects using Coingecko edition V3, & Etherscan, Blockchain clones and utilising Coinmarket cap to create Cryptocurrency data and price charts for webpages. 
 <br>
 <br>
-Microsoft outlook and other applications acquired by working with varied of software applications. Currently deep dive with ZTM courses on Advanced JavaScript Algorithmns.
+Naturally analytical, I am keen to combine my interest in software and technology, complete Blockchain and Solidity  development; with my interpersonal communication skills to add value whilst successfully managing the delivery of business systems development solutions. I have in-depth commercial awareness, which I can translate into the realization of a business’s long-term objectives, affecting positive change to enable success.
 <br>
 <br>
-Excellent, communication and influencing skills, fast learner, past public speaking experience, communicating with people from diverse cultures and backgrounds and at all levels. Able to build strong , long term relationships with clients and key stakeholders, demonstrating tact, diplomacy, sound judgement, initiative and discretion.
+My varied work experience has increased my ability to be flexible and adapt to changing environments and I have a track record of improving quality and increasing efficiency, recognized by both peers and senior management for my attention to detail and passion for achieving excellent results.
+<br>
+Fast learner, past public speaking experience, communicating with people from diverse cultures and backgrounds and at all levels. Able to build strong, long term relationships with clients and key stakeholders, demonstrating tact, diplomacy, sound judgement, initiative and discretion. 
 <br>
 <br>
 🧰 🛠️
