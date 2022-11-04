@@ -1,7 +1,16 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Billy McDavid!
+<br>
+Current Projects ongoing:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width= "50" height="50"/> ** ZTM JavaScript: The Advanced Concepts
+<br>
+<br>
+<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:50/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539" alt="Zero To Mastery Academy" srcset="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:40/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539 2x" alt= "ZTM logo" width= "50" height="50" /> ** ZTM Passport: Intermediate JavaScript Developer
+<br>
+<br>
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/channel/UC3jxwlvvokr1BtxphNOQK-g?label=People%20subscribed%20to%20my%20channel&style=social) ![Twitter URL](https://img.shields.io/twitter/url?label=my%20twitter%20followers&style=social&url=https%3A%2F%2Ftwitter.com%2Fmanimore79%3Ft%3Djo9cd0bhsBI5hS3BkcAIOw%26s%3D09)
 <br>
-
+<br>
 A Web Developer specializing in JavaScript technologies with the motivation, goal setting and desire to achieve good Developer status. A record of planning, executing, coding and evaluating smart code on VSC, languages HTML, CSS, JavaScript, React, Bootstrap, Projects Cryptokitties, Github turned in repository clone projects using Coingecko edition V3, & Etherscan, Blockchain clones and utilising Coinmarket cap to create Cryptocurrency data and price charts for webpages. 
 <br>
 <br>
