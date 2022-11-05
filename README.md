@@ -55,7 +55,7 @@ Fast learner, past public speaking experience, communicating with people from di
 
   <br>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshimasterbilly&layout=compact)](https://github.com/satoshimasterbilly/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshimasterbilly&hide=css,&show_icons=true&theme=radical,)](https://github.com/satoshimasterbilly/github-readme-stats" /></a><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satoshimasterbilly&hide=css,shell,&show_icons=true&theme=radical,)](https://github.com/satoshimasterbilly/github-readme-stats" /></a><br>
 
 
 
