@@ -11,6 +11,9 @@ Current Projects ongoing:
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/channel/UC3jxwlvvokr1BtxphNOQK-g?label=People%20subscribed%20to%20my%20channel&style=social) ![Twitter URL](https://img.shields.io/twitter/url?label=my%20twitter%20followers&style=social&url=https%3A%2F%2Ftwitter.com%2Fmanimore79%3Ft%3Djo9cd0bhsBI5hS3BkcAIOw%26s%3D09)
 <br>
 <br>
+<img src="https://yt3.ggpht.com/ytc/AGIKgqMl9TL4OpwS8Zc5jHrNnfO01f_Wbovye9mQzfp36Q=s48-c-k-c0x00ffffff-no-rj" alt= "FreeCodeCamp" width= "50" height="50" /> Blockchain, Solidity, and Full Stack Web3 Development with JavaScript
+<br>
+<br>
 A Web Developer specializing in JavaScript technologies with the motivation, goal setting and desire to achieve good Developer status. A record of planning, executing, coding and evaluating smart code on VSC, languages HTML, CSS, JavaScript, React, Bootstrap, Projects Cryptokitties, Github turned in repository clone projects using Coingecko edition V3, & Etherscan, Blockchain clones and utilising Coinmarket cap to create Cryptocurrency data and price charts for webpages. 
 <br>
 <br>
