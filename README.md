@@ -28,6 +28,7 @@ Fast learner, past public speaking experience, communicating with people from di
 🧰 🛠️
 <br>
 <br>
+<img src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt= "HTML5" width= "50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt= "HTML5" width= "50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt= "JavaScript logo" width= "50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt= "React logo" width= "50" height="50" />
