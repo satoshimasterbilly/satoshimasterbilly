@@ -2,6 +2,8 @@
 <br>
 Current Projects ongoing:
 
+<img src="https://academy.zerotomastery.io/courses/enrolled/1050496" width= "50" height="50"/>  React Native Developer 2023: Zero To MASTERY [with Hooks]: 
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width= "50" height="50"/> ** ZTM JavaScript: The Advanced Concepts
 <br>
 <br>
