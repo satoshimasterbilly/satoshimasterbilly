@@ -2,7 +2,8 @@
 <br>
 Current Projects ongoing:
 <br>
-<img style="height:auto;" alt="Smart Contract/Blockchain Software PatrickAlphaC" src="https://avatars.githubusercontent.com/u/54278053?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
+<img style="height:auto;" alt="Smart Contract/Blockchain Software PatrickAlphaC" src="https://avatars.githubusercontent.com/u/54278053?v=4" width="260" height="260" border-radius=50% class="avatar avatar-user width-full border color-bg-default">
+<p> foundry-full-course-f23</p>
 <br>
 <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:50/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539" alt="Zero To Mastery Academy" srcset="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:40/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539 2x" alt= "ZTM logo" width= "50" height="50" /> ** ZTM Passport: React Native Developer 2023: Zero To MASTERY [with Hooks]
 <br>
