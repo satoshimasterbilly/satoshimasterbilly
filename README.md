@@ -3,7 +3,7 @@
 Current Projects ongoing:
 <br>
 
-<img style="height:auto;" alt="Smart Contract/Blockchain Software PatrickAlphaC" src="https://avatars.githubusercontent.com/u/54278053?v=4" width="260" height="260" border-radius=50% class="avatar avatar-user width-full border color-bg-default">
+<img style="height:auto;" alt="Smart Contract/Blockchain Software PatrickAlphaC" src="https://avatars.githubusercontent.com/u/54278053?v=4" width="50" height="50" border-radius=50% class="avatar avatar-user width-full border color-bg-default">
 <p> foundry-full-course-f23</p>
 
 
