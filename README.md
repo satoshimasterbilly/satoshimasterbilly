@@ -2,7 +2,9 @@
 <br>
 Current Projects ongoing:
 <br>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width= "50" height="50"/> ** ZTM Blockchain-Ethereum-Solidity: The Complete Developers Guide***
+<br>
+<br>
 <img style="height:auto;" alt="Smart Contract/Blockchain Software PatrickAlphaC" src="https://avatars.githubusercontent.com/u/54278053?v=4" width="50" height="50" border-radius=50% class="avatar avatar-user width-full border color-bg-default">
 <p> foundry-full-course-f23</p>
 
