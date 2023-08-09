@@ -45,6 +45,9 @@ My varied work experience has increased my ability to be flexible and adapt to c
 Fast learner, past public speaking experience, communicating with people from diverse cultures and backgrounds and at all levels. Able to build strong, long term relationships with clients and key stakeholders, demonstrating tact, diplomacy, sound judgement, initiative and discretion. 
 <br>
 <br>
+⚡ Fun fact **Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.**
+<br>
+<br>
 🧰 🛠️
 <br>
 <br>
