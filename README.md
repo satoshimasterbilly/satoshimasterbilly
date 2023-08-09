@@ -3,6 +3,11 @@
 Current Projects ongoing:
 <br>
 <br>
+🔭 I'm currently working on [Foundry-Fund-Me-f23](https://github.com/Cyfrin/foundry-fund-me-f23/tree/main)
+
+🌱 I’m currently learning **Solidity- Smart Contracts**
+<br>
+<br>
 <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:50/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539" alt="Zero To Mastery Academy" srcset="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:40/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539 2x" alt= "ZTM logo" width= "50" height="50" /> ** ZTM RUST Programming: The Complete Developers Guide***
 <br>
 <br>
