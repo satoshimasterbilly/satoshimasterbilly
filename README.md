@@ -3,7 +3,7 @@
 Current Projects ongoing:
 <br>
 <br>
-<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:50/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539" alt="Zero To Mastery Academy" srcset="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:40/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539 2x" alt= "ZTM logo" width= "50" height="50" /> **Complete Python Developer in 2023: Zero to Mastery***
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" alt="Python Developer" srcset="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:40/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539 2x" alt= "ZTM logo" width= "50" height="50" />
 <br>
 <br>
 🔭 I'm currently working on [Foundry-Fund-Me-f23](https://github.com/Cyfrin/foundry-fund-me-f23/tree/main)
