@@ -6,7 +6,7 @@ Billys Current Projects ongoing:
 <img style="height:auto;" alt="Smart Contract/Blockchain Software PatrickAlphaC" src="https://hackernoon.imgix.net/images/E4pYfD4L6vO8RC4YQzgPS6joiXL2-e9026w3.png" width="50" height="50" border-radius=50% class="avatar avatar-user width-full border color-bg-default">
 
 <p>Advanced Foundry</p>
-<img style="height:auto;" alt="Smart Contract/Blockchain Software PatrickAlphaC" src="<img style="height:auto; src="https://hackernoon.imgix.net/images/E4pYfD4L6vO8RC4YQzgPS6joiXL2-e9026w3.png" width="50" height="50" border-radius=50% class="avatar avatar-user width-full border color-bg-default" width="50" height="50" border-radius=50% class="avatar avatar-user width-full border color-bg-default">
+<img style="height:auto;" alt="Smart Contract/Blockchain Software PatrickAlphaC" src="https://hackernoon.imgix.net/images/E4pYfD4L6vO8RC4YQzgPS6joiXL2-e9026w3.png" width="50" height="50" border-radius=50% class="avatar avatar-user width-full border color-bg-default" width="50" height="50" border-radius=50% class="avatar avatar-user width-full border color-bg-default">
 <p>Foundry Fundamentals -/ completed</p> 
 <p>Solidity 101  -/completed </p>
 
