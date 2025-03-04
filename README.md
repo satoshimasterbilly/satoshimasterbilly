@@ -3,6 +3,7 @@
 Billys Current Projects ongoing:
 <br>
 <img style="height:auto;" alt="Smart Contract/Blockchain Software PatrickAlphaC" src="https://avatars.githubusercontent.com/u/54278053?v=4" width="50" height="50" border-radius=50% class="avatar avatar-user width-full border color-bg-default">
+<img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAmVBMVEX////q8P7N2/22yvynv/qeuPmzx/nK1/r2+P7G1v6Nr/xNifo+gPlHgvUyd/Ipce45ePA/eu6Bo/K/zvhdkfr8/f/r8f1RhfAja+qOq/Kjvv2iufNulvEyceqXsvTf5/xikPNciOwYY+UiaOZMfehEeOcAXuQAWOGswPOAnuxBdeXR2/cATNwAVeJ5meuKpOsARttniuVYgeRjb5INAAAA6ElEQVR4AcXNVYKDMBRA0Ye7pFSCuzv7X9xkHP3uxTkReGsUzbAcx/ICtQNRkhWVpGm6YeroZokr5JQ7J1APID1fCJnYXqGj/L65mPcQ8oMTlJBhi4FvnmAYYY+PDMOL8QY1APGGNYHyDf8FfLJGjuBNZ782dW0/TQ8Yw1cZTvMtIoKvHyzCZ2lfoFfVzXZPnSASgSTWZdoW65kMFsHCiQvglqULYletUMTB15ym6Qcyf5xEWBUkDLmHWR6SBz/ZsMkrvCd89ZynGXbxSRkAye76Cg49xj6xrKIbH3AWtXTdQsFVlgXv7gO2wRPqVj7XcwAAAABJRU5ErkJggg==" style="height:26px;width:26px" alt="" data-csiid="plXHZ9fRDOqMhbIPsumUqQU_2" data-atf="1">
 <p> foundry-full-course-f23</p>
 <br>
 <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:50/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539" alt="Zero To Mastery Academy" srcset="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:40/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539 2x" alt= "ZTM logo" width= "50" height="50" />
