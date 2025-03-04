@@ -3,7 +3,7 @@
 Billys Current Projects ongoing:
 <br>
 <img style="height:auto;" alt="Smart Contract/Blockchain Software PatrickAlphaC" src="https://avatars.githubusercontent.com/u/54278053?v=4" width="50" height="50" border-radius=50% class="avatar avatar-user width-full border color-bg-default">
-<img style="height:auto;" alt="CyfrinUpdraft" src="https://images.app.goo.gl/Q648Bk7q8rK96wX56">
+<img style="height:auto;" alt="Smart Contract/Blockchain Software PatrickAlphaC" src="https://hackernoon.imgix.net/images/E4pYfD4L6vO8RC4YQzgPS6joiXL2-e9026w3.png" width="50" height="50" border-radius=50% class="avatar avatar-user width-full border color-bg-default">
 <p> foundry-full-course-f23</p>
 <br>
 <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:50/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539" alt="Zero To Mastery Academy" srcset="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:40/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539 2x" alt= "ZTM logo" width= "50" height="50" />
