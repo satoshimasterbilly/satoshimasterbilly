@@ -16,6 +16,8 @@ Billys Current Projects ongoing:
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" srcset="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:40/https://www.filepicker.io/api/file/62HZfRHyQieUquIdz539 2x" alt= "ZTM logo" width= "40" height="25" /> ** ZTM Python Programming: The Complete Python Developers Guide: Zero To Mastery***
 <br>
 <br>
+<h1 class="jsx-1640592643 heading" style="font-family: Barlow, sans-serif; color: rgb(238, 238, 238); font-size: 50px; font-weight: 700; padding-bottom: 20px; padding-top: 110px;">Prompt Engineering (Working With LLMs): Zero to Mastery</h1>
+<br>
 More recently deep dive into Django pythonji 🐼.🐍 
 <br>
 <br>
